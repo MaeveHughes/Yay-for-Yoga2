@@ -1,3 +1,4 @@
+/*Google images script */
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&family=PT+Serif&display=swap');
 
 * {
@@ -490,5 +491,5 @@ header {
     .map {
     padding-top: 50px;
     margin-left: 20px;
-    }
+    } 
 }
