@@ -64,8 +64,16 @@
     - Git was used for version control by using Gitpod to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - After being pushed from Git, GitHub is used to store the projects code.
-1. [Pexels:](https://www.pexels.com/)
-    - Pexels was used to provide the imagery on the webage.
+1. [Unsplash:](https://unsplash.com/photos/UxkcSzRWM2s)
+    - Unsplash was used to provide the imagery on the webage.
+1. [Manduka:](https://eu.manduka.com/collections/mens-yoga-clothing)
+    - Manduke was used to provide the imagery on the webage.
+1. [Shape:](https://www.shape.com/fitness/tips/14-good-reasons-not-give-after-your-first-yoga-class)
+    - Shape was used to provide the imagery on the webage.
+1. [The Thirty:](https://thethirty.whowhatwear.com/vinyasa-yoga-poses)
+    - The Thirty was used to provide the imagery on the webage.
+1. [Find The Devine:](https://findthedivine.com/calendar-event/turn-to-the-good-cultivating-positive-states-of-mind-heart/yoga-gettyimages-1142820079-promo/)
+    - Find the devine was used to provide the imagery on the webage.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process (see wireframes above).
 
@@ -138,8 +146,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   On some mobile devices the images on the classes page are distorted.
--   Image two on the home page beside the opening hours is out of place on an iPad device.
+-   Image two on the home page beside the opening hours is out of place on an iPad device, this is something I would like to resolve in the near future.
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
@@ -155,7 +162,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   - The header and footer design was assisted with tutorial notes and the love running project.
 
   ### Home Page
-  - The images on the home page were taken from pexels.com, using W3Schools to help to style the images.
+  - The images on the home page were taken from various websites listed above, using W3Schools to help to style the images.
   - The quote was taken from goodreads.com.
   - The about us was created by the developer.
   - The opening hours was created by the developer with the assitance from W3Schools for the design.
