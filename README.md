@@ -2,7 +2,7 @@
 
 [View the live project here.](https://8000-beige-urial-bsimewvi.ws-eu18.gitpod.io/index.html)
 
-Home Page Image - [View](https://github.com/MaeveHughes/Yay-for-Yoga2/blob/main/images/Screenshot 2021-10-02 at 16.41.46.png)
+Home Page Image - [View](https://github.com/MaeveHughes/Yay-for-Yoga2/blob/main/images/Screenshot.png)
 
 <p>This is the main marketing website for Yay for Yoga. It is designed to provide web browsers with information about Yay for Yoga, the benefits of yoga and the classes they have to offer. This site is targeted towards adults who have an interest in yoga.</p>
 
