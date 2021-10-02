@@ -483,12 +483,13 @@ header {
 
 @media screen and (max-width:760px){
     .map iframe {
-    height: 90%;
-    width: 90%;
+    height: 330px;
+    width: 380px;
     }
 
     .map {
-    margin-left: 45px;
-    margin-right: 45px;
+    padding-top: 50px;
+    margin-left: 20px;
     }
 }
+
