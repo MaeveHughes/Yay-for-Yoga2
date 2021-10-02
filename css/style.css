@@ -350,8 +350,6 @@ header {
   .video iframe {
     left: 0;
     right: 0;
-    /*height: 400px;
-    width: 400px;*/
     position: absolute;
   }
 
@@ -476,8 +474,6 @@ header {
 .map iframe {
     left: 0;
     right: 0;
-    /*height: 80%;
-    width: 90%;*/
     position: absolute;
 }
 
