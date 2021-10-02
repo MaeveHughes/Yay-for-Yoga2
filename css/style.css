@@ -311,6 +311,12 @@ header {
 /* Making the images compatible for all devices */
 
 @media screen and (max-width:760px){
+
+    .yoga-type {
+        height: 350px;
+        width: 350px;
+    }
+
     .holdingcontainer {
         flex-direction: column;
     }
