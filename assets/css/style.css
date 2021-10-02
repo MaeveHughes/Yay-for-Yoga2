@@ -99,3 +99,41 @@ footer {
         font-size: 18px;
     }
 }
+
+/* home page */
+
+/* First image appearing on the home page */
+
+.image-one {
+    width: 40%;
+    height: 500px;
+    border-radius: 20%;
+    padding: 20px 30px 20px 50px;
+    float: left;
+}
+
+/* Making image-one compatible for all devices*/
+
+@media screen and (max-width:760px){
+    .image-one {
+        width: 90%;
+        padding: 20px;
+    }
+}
+
+/* Quote beside image on home page */
+
+.quote {
+    padding: 100px;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+/* Making the quote compatible for all devices */
+
+@media screen and (max-width:760px){
+    .quote {
+        font-size: 20px;
+        padding: 2px 20px;
+    }
+}
