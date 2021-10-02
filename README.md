@@ -33,9 +33,9 @@
         -   The images on the home page are designed to draw the users in and catch their attention while they are reading about what the studio has to offer. The images used on the classes page correspond with the description of the classes. This will provide the users with an insight on what to expect if they sign up to the classes.
 
     ### Wireframes
-    -   Home Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/images/home.png)
-    -   Classes Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/images/classes.png)
-    -   Contact Us Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/images/contact.png)
+    -   Home Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga2/blob/main/images/home.png)
+    -   Classes Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga2/blob/main/images/classes.png)
+    -   Contact Us Page Wireframe - [View](https://github.com/MaeveHughes/Yay-for-Yoga2/blob/main/images/contact.png)
 
     ## Features
 
@@ -142,8 +142,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   The website was viewed on a variety of devices such as Laptop, iPhone & Galaxy S5.
 -   All links were tested multiple times on different devices.
 
-![Image of Responsive Design](https://github.com/MaeveHughes/Yay-for-Yoga/blob/main/assets/images/responsivedesign.png)
-
 ### Known Bugs
 
 -   Image two on the home page beside the opening hours is out of place on an iPad device, this is something I would like to resolve in the near future.
@@ -168,7 +166,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   - The opening hours was created by the developer with the assitance from W3Schools for the design.
 
    ### Classes page
-   - The images on the home page were taken from pexels.com, using W3Schools to help to style the images. The images and text were designed using flexbox which was learnt from https://www.youtube.com/watch?v=fYq5PXgSsbE&t=34s.
+   - The images on the home page were taken from various websites listed above, using W3Schools to help to style the images. The images and text were designed using flexbox which was learnt from https://www.youtube.com/watch?v=fYq5PXgSsbE&t=34s.
    - The benefits of yoga was taken from hopkinsmedicine.org, using W3Schools to help to style the border.
    - The video was taken from Youtube and used the following youtube video to assist in embedding the video: https://www.youtube.com/watch?v=9YffrCViTVk&t=78s
 
