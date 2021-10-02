@@ -354,6 +354,16 @@ header {
     position: absolute;
   }
 
+  @media screen and (max-width:760px){
+    .video {
+        padding-top: 50px;
+        margin-left: 20px;
+    }
+    .video iframe {
+        height: 330px;
+        width: 380px;
+ }
+
   /* Contact Us */
 
   .contact-us {
