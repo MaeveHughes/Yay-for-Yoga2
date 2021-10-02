@@ -438,3 +438,36 @@ header {
         font-size: 18px;
     }
 }
+
+/* Map */
+
+.map {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.map iframe {
+    left: 0;
+    right: 0;
+    height: 80%;
+    width: 90%;
+    position: absolute;
+}
+
+/* Making the map compatible for all devices */
+
+@media screen and (max-width:760px){
+    .map iframe {
+    height: 90%;
+    width: 90%;
+    }
+
+    .map {
+    margin-left: 45px;
+    margin-right: 45px;
+    }
+}
