@@ -212,10 +212,10 @@ header {
 
 .image-two {
     float: right;
-    border-radius: 50%;
+    border-radius: 30%;
     height: 450px;
-    padding-right: 5%;
-    padding-left: 5%;
+    margin-right: 100px;
+    margin-top: 40px;
 }
 /* Making the image two compatible for all devices */
 
