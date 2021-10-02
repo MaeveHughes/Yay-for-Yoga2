@@ -207,3 +207,22 @@ header {
         border-radius: 400px;
         }
 }
+
+/* Image two on the home page beside the opening hours */
+
+.image-two {
+    float: right;
+    border-radius: 50%;
+    height: 450px;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+/* Making the image two compatible for all devices */
+
+@media screen and (max-width:760px){
+    .image-two {
+        height: 270px;
+        padding-bottom: 20px;
+        margin-top: 20px;
+    }
+}
