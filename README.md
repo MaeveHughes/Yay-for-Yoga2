@@ -68,7 +68,6 @@
     - Pexels was used to provide the imagery on the webage.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process (see wireframes above).
-1. [Balsamiq:](https://balsamiq.com/) 
 
     ## Testing
 
